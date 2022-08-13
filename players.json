@@ -24,5 +24,11 @@
         "professions": [
             "leatherworking"
         ]
+    },
+    {
+        "name": "Geyarah",
+        "professions": [
+            "alchemy"
+        ]
     }
 ]
