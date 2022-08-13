@@ -1,16 +1,14 @@
 [
     {
-        "name": "Dragskin",
-        "professions": [
-            "alchemy",
-            "engineering"
-        ]
+        "name": "Alquimia",
+        "key": "alchemy"
     },
     {
-        "name": "Kaifranin",
-        "professions": [
-            "tailoring",
-            "jewelcrafting"
-        ]
+        "name": "Engenharia",
+        "key": "engineering"
+    },
+    {
+        "name": "Alfaiataria",
+        "key": "tailoring"
     }
 ]

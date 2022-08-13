@@ -1,0 +1,16 @@
+[
+    {
+        "name": "Dragskin",
+        "professions": [
+            "alchemy",
+            "engineering"
+        ]
+    },
+    {
+        "name": "Kaifranin",
+        "professions": [
+            "tailoring",
+            "jewelcrafting"
+        ]
+    }
+]
