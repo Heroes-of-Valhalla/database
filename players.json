@@ -12,5 +12,17 @@
             "tailoring",
             "jewelcrafting"
         ]
+    },
+    {
+        "name": "Azarg",
+        "professions": [
+            "alchemy"
+        ]
+    },
+    {
+        "name": "Zuufer",
+        "professions": [
+            "leatherworking"
+        ]
     }
 ]

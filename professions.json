@@ -10,5 +10,9 @@
     {
         "name": "Alfaiataria",
         "key": "tailoring"
+    },
+    {
+        "name": "Couraria",
+        "key": "leatherworking"
     }
 ]
